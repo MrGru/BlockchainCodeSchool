@@ -1,6 +1,5 @@
 package main
 
-// Blockchain is our global blockchain.
 type Blockchain struct {
 	blocks []*Block
 }
